@@ -1,5 +1,7 @@
 #!/bin/bash
 
+source .venv/bin/activate
+
 # E2B API配置环境变量
 export E2B_API_KEY=""
 export E2B_BASE_URL=""
